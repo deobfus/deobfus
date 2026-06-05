@@ -2,6 +2,16 @@
 title: "Welcome to the Math Bank"
 ---
 
-This is the homepage. We will test interactive math problems and Python code execution in later steps!
+Here is a live Python environment. Try changing the math and running it!
 
-Testing latex:  $$ f(x)=\begin{cases} 3x+4 \\ 5x-1 \end{cases} $$
+```{shinylive-python}
+#| standalone: true
+#| viewerHeight: 400
+
+import math
+
+radius = 5
+area = math.pi * (radius ** 2)
+
+print(f"The area of a circle with radius {radius} is {area:.2f}")
+```

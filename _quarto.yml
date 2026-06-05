@@ -10,8 +10,11 @@ website:
       - href: lessons/lesson1.qmd
         text: Lesson 1
 
+filters:
+  - shinylive
+
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
