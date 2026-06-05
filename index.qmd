@@ -1,0 +1,5 @@
+---
+title: "Welcome to the Math Bank"
+---
+
+This is the homepage. We will test interactive math problems and Python code execution in later steps!
