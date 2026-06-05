@@ -1,6 +1,8 @@
 project:
   type: website
 
+engine: markdown
+
 website:
   title: "Math Lesson Bank"
   navbar:

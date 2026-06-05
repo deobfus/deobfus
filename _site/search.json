@@ -1,9 +1,0 @@
-[
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to the Math Bank",
-    "section": "",
-    "text": "This is the homepage. We will test interactive math problems and Python code execution in later steps!\nTesting latex: \\[ f(x)=\\begin{cases} 3x+4 \\\\ 5x-1 \\end{cases} \\]"
-  }
-]
